@@ -6,7 +6,7 @@ public class sow {
 		System.out.println("sample");
 	System.out.println("sowjanya sample");
 		System.out.println("sample");
-		System.out.println("sample");
+		//System.out.println("sample");
 	
 	}
 
